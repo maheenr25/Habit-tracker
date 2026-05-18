@@ -1,0 +1,26 @@
+# Gradle and build outputs
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# IDE files
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/workspace.xml
+
+# Kotlin/Java generated
+.kotlin/
+
+# Crash dumps and profiling
+*.hprof
+
+# Nested/accidental repo copy
+Habit-tracker/
+
+# OS files
+.DS_Store
